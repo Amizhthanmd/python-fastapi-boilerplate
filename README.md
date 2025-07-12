@@ -1,7 +1,11 @@
 # Python FastApi Boilerplate
 
-## python -m venv myenv
+## Getting started
 
-## source venv/bin/activate (mac/linux)
+### python -m venv myenv
 
-## venv\Scripts\activate (windows)
+### source venv/bin/activate (mac/linux)
+
+### venv\Scripts\activate (windows)
+
+### pip install -r requirements.txt
